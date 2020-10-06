@@ -44,6 +44,20 @@ body {
   margin: 0 auto;
   padding: 0 15px;
 }
+
+.btn {
+  background: #56abf7;
+  border-radius: 5px;
+  font-size: 18px;
+  line-height: 22px;
+  color: $white;
+  padding: 9px 0;
+  text-align: center;
+  max-width: 270px;
+  width: 100%;
+  cursor: pointer;
+}
+
 .footer {
   .footer__copy {
     text-align: center;
